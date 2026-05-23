@@ -1,0 +1,9 @@
+violations-before-kick: 5
+decay-seconds: 30
+speed-multiplier: 1.5
+fly-ticks-threshold: 40
+killa-cps-limit: 20
+killa-reach-limit: 4.5
+xray-ore-ratio: 0.6
+xray-min-blocks: 50
+alerts-to-ops: true

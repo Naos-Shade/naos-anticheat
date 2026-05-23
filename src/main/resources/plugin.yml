@@ -1,0 +1,16 @@
+name: NaosAnticheat
+version: 1.0
+main: fr.naossmp.anticheat.NaosAnticheat
+api-version: '1.21'
+description: Anticheat pour le Naos SMP
+
+commands:
+  ac:
+    description: Commandes admin anticheat
+    usage: /ac <violations|reset> <joueur>
+    permission: naosanticheat.admin
+
+permissions:
+  naosanticheat.admin:
+    description: Accès aux commandes admin anticheat
+    default: op
