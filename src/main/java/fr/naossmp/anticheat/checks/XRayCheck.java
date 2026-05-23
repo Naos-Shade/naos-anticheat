@@ -17,7 +17,6 @@ public class XRayCheck {
         Material.DEEPSLATE_DIAMOND_ORE,
         Material.EMERALD_ORE,
         Material.DEEPSLATE_EMERALD_ORE,
-        Material.ANCIENT_DEBRIS,
         Material.GOLD_ORE,
         Material.DEEPSLATE_GOLD_ORE,
         Material.IRON_ORE,
